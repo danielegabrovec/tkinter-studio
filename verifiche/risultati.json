@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "tests": 144,
+  "failures": 0,
+  "errors": 0,
+  "qt_slot_exceptions": [],
+  "python": "3.14.5",
+  "pyqt": "6.11.0",
+  "qt": "6.11.2",
+  "qt_build": "6.11.0",
+  "runtime": {
+    "demo_callback": "ok",
+    "widget_types": 16,
+    "tk": "8.6.15"
+  },
+  "seconds": 23.71
+}

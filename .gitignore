@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+_tkstudio_run_*.py
+.pytest_cache/
+progetti/
+verifiche/*.log
+
+# Distribuzioni nelle GitHub Releases, non nella cronologia Git.
+dist/
+build/
+.cache/
+.venv/
+__pycache__/
+*.pyc
+*.log
+.env
+.env.*
+!.env.example
+progetti/
